@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<link rel="stylesheet" href="../css/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../js/script.js"></script>
+</head>
+<body>
+<div class="app-header">
+  <button id="search"></button>
+  <div class="header-text-wrap">
+    <span></span>
+  </div>
+</div>
+<div class="pagewrap">
+<section class="top-news">
+<a>
+  <div class="l-thumbnail">
+    <span class="l-thumbnail-cat"></span>
+    <div class="l-thumbnail-titles">
+      <span class="thumbnail-h-buttons">
+        <button class="save-btn" name="save"></button>
+        <button class="share-btn" name="share"></button>
+      </span>
+     </div>
+     </div>
+  </div>
+</a>
+<a>
+  <div class="l-thumbnail">
+    <span class="l-thumbnail-cat"></span>
+    <div class="l-thumbnail-titles">
+      <span class="thumbnail-h-buttons">
+        <button class="save-btn" name="save"></button>
+        <button class="share-btn" name="share"></button>
+      </span>
+     </div>
+     </div>
+  </div>
+</a>
+</section>
+<section class="other-news">
+  <ul class="h-thumbnail-list">
+    <li>
+      <a></a>
+    </li>
+    <li>
+      <a></a>
+    </li>
+    <li>
+      <a></a>
+    </li>
+  </ul>
+</section>
+</div>
+</body>
+</html>
