@@ -44,13 +44,44 @@
 <section class="other-news">
   <ul class="h-thumbnail-list">
     <li>
-      <a></a>
+      <a>
+      <div class="thumbnail-h">
+        <div class="thumbnail-h-left">
+        <span class="cat-op-indicator"></span>
+        <span class="thumbnail-h-titles"></span>
+        <span class="thumbnail-h-buttons">
+          <button class="save-btn" name="save"></button>
+          <button class="share-btn" name="share"></button>
+        </span>
+        </div>
+      </div>
+      </a>
     </li>
     <li>
-      <a></a>
+      <a>
+      <div class="thumbnail-h">
+        <div class="thumbnail-h-left">
+        <span class="cat-op-indicator"></span>
+        <span class="thumbnail-h-titles"></span>
+        <span class="thumbnail-h-buttons">
+          <button class="save-btn" name="save"></button>
+          <button class="share-btn" name="share"></button>
+        </span>
+        </div>
+      </a>
     </li>
     <li>
-      <a></a>
+      <a>
+      <div class="thumbnail-h">
+        <div class="thumbnail-h-left">
+        <span class="cat-op-indicator"></span>
+        <span class="thumbnail-h-titles"></span>
+        <span class="thumbnail-h-buttons">
+          <button class="save-btn" name="save"></button>
+          <button class="share-btn" name="share"></button>
+        </span>
+        </div>
+      </a>
     </li>
   </ul>
 </section>
